@@ -1,0 +1,138 @@
+[Event "N4"]
+[Site "?"]
+[Date "2008.10.19"]
+[Round "?"]
+[White "Poizat"]
+[Black "Landais"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1470"]
+[BlackElo "1690"]
+[Annotator ",Seb"]
+[PlyCount "84"]
+[TimeControl "240+2"]
+
+{179MB, Shredder9.ctg, SEBPC} 1. b4 {[%emt 0:00:00]} d5 2. Bb2 e6 3. b5 Nf6 4.
+Nf3 Be7 5. e3 O-O 6. Be2 a6 7. Nc3 axb5 8. Bxb5 Nbd7 9. d4 c6 10. Be2 b5 11.
+O-O Bd6 12. a3 Qe7 13. Qc1 Nb6 14. Nd2 e5 15. f4 exf4 16. exf4 Ng4 17. Bxg4
+Bxg4 18. h3 Bf5 19. Re1 Qc7 20. Ne2 Bxf4 21. Nxf4 Qxf4 22. Rf1 Qe3+ 23. Kh1 Bg6
+24. Re1 Qg3 25. Nf1 Qh4 26. Nh2 Be4 27. Rg1 Qxh3 28. c3 Rfe8 29. Qf1 Re6 30.
+Re1 Rh6 31. Qf4 Qh5 32. Bc1 Re6 33. Qg3 Rae8 34. Ref1 Nc4 35. Rf4 Nd6 36. Rh4
+Nf5 37. Qg5 Qxh4 38. Qxh4 Nxh4 39. Ng4 Rg6 40. Ne5 Rxe5 41. dxe5 Bxg2+ 42. Rxg2
+Nxg2 0-1
+
+[Event "N4"]
+[Site "?"]
+[Date "2009.02.08"]
+[Round "?"]
+[White "Moratinos"]
+[Black "Landais"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "1399"]
+[BlackElo "1770"]
+[Annotator ",Seb"]
+[PlyCount "54"]
+[TimeControl "240+2"]
+
+{179MB, Shredder9.ctg, SEBPC} 1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nf6 5. Ne2
+Be7 6. O-O O-O 7. Bg5 Nc6 8. c3 Ng4 9. Bxe7 Nxe7 10. Re1 Qd6 11. Ng3 h5 12. Nf1
+Bf5 13. Be2 Qf4 14. Bxg4 Bxg4 15. f3 Be6 16. Nbd2 Ng6 17. Re2 Qg5 18. g3 Rfe8
+19. Kh1 Bd7 20. Rf2 Re7 21. Nb3 Rae8 22. f4 Qf5 23. Qd2 Bb5 24. Nc5 Re2 25.
+Rxe2 Rxe2 26. Qd1 Qh3 27. Ne3 Qxh2# 0-1
+
+[Event "N4"]
+[Site "?"]
+[Date "2008.11.23"]
+[Round "?"]
+[White "Vuillin"]
+[Black "Landais"]
+[Result "0-1"]
+[ECO "D45"]
+[WhiteElo "1710"]
+[BlackElo "1690"]
+[Annotator ",Seb"]
+[PlyCount "160"]
+[TimeControl "240+2"]
+
+{179MB, Shredder9.ctg, SEBPC} 1. d4 {[%emt 0:00:00]} d5 2. c4 c6 3. e3 e6 4.
+Nf3 Nf6 5. Nc3 Nbd7 6. Bd2 Bd6 7. cxd5 exd5 8. g3 O-O 9. Bg2 Re8 10. O-O Nf8
+11. Qc2 Ng6 12. Rad1 Bg4 13. Bc1 Qc8 14. Rd2 Bh3 15. Re1 Bxg2 16. Kxg2 Ne4 17.
+Rde2 Qg4 18. h3 Qh5 19. Rh1 Re6 20. g4 Nh4+ 21. Nxh4 Qxh4 22. Nxe4 dxe4 23. Bd2
+Rae8 24. Be1 Qf6 25. Kg1 Qf3 26. Qd1 Rh6 27. Rd2 Rxh3 28. Qxf3 Rxf3 29. Kg2 f5
+30. gxf5 Rxf5 31. Kf1 g5 32. Ke2 Kg7 33. Rc2 Kg6 34. Bc3 h5 35. Rcc1 Ref8 36.
+Rcf1 g4 37. Be1 Rf3 38. Rfg1 Kg5 39. a3 R8f5 40. b4 h4 41. Rg2 h3 42. Rgg1 Kh4
+43. Rg2 a6 44. Rgg1 h2 45. Rg2 Kh3 46. Rgg1 b5 47. Kf1 (47. Kd1) 47... Be7 48.
+Rxh2+ Kxh2 49. Rxg4 Rf7 50. Rxe4 R3f5 51. Ke2 Kh3 52. Re6 R5f6 53. Re5 (53. Re4
+Rg6) 53... Rg6 54. Rh5+ Kg4 55. Rh2 Rgf6 56. Rg2+ Kf5 57. Kd3 Ke6 58. f4 Bd6
+59. Bh4 Rf5 60. Rg6+ Kd7 61. Bg5 Rh7 62. Ke4 Rf8 63. Kd3 Re8 64. f5 Be7 65. Bh6
+Rf7 66. e4 a5 67. Bd2 axb4 68. Bxb4 Ra8 69. Bxe7 Rxe7 70. e5 Rxa3+ 71. Ke4 Ra8
+72. f6 Rf7 73. Kf5 Rff8 74. e6+ Kd6 75. e7 Rf7 76. Rg7 Rxg7 77. fxg7 Kxe7 78.
+Kg6 Rg8 79. d5 cxd5 80. Kh7 Kf7 0-1
+
+[Event "Coupe loubatière"]
+[Site "?"]
+[Date "2008.11.15"]
+[Round "?"]
+[White "Landais"]
+[Black "Thabut"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "1690"]
+[BlackElo "1520"]
+[Annotator ",Seb"]
+[PlyCount "71"]
+[TimeControl "240+2"]
+
+{179MB, Shredder9.ctg, SEBPC} 1. e4 d6 2. d4 g6 3. Bc4 e6 4. Nc3 Bg7 5. Nge2
+Nd7 6. Be3 Ne7 7. Qd2 c6 8. f4 Nb6 9. Bb3 d5 10. e5 Nf5 11. Bf2 Nc4 12. Bxc4
+dxc4 13. Ne4 O-O 14. g4 Nh4 15. O-O-O Nf3 16. Qc3 Nh4 17. Qh3 Qa5 18. Kb1 f5
+19. Nd6 fxg4 20. Qxh4 b5 21. Qxg4 Rf5 22. Nxf5 exf5 23. Qf3 Bb7 24. Qc3 Qd8 25.
+Rhe1 a5 26. d5 cxd5 27. Bc5 Qe8 28. Qd4 b4 29. Bd6 c3 30. Qb6 Bc6 31. Nd4 Bd7
+32. e6 Bxd4 33. Qxd4 Bc6 34. Qf6 b3 35. axb3 a4 36. Be5 1-0
+
+[Event "Coupe Loubatière"]
+[Site "?"]
+[Date "2008.11.15"]
+[Round "?"]
+[White "Moluard"]
+[Black "Landais"]
+[Result "1/2-1/2"]
+[ECO "A25"]
+[WhiteElo "1510"]
+[BlackElo "1690"]
+[Annotator ",Seb"]
+[PlyCount "64"]
+[TimeControl "240+2"]
+
+{179MB, Shredder9.ctg, SEBPC} 1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e3
+Nge7 6. Nge2 O-O 7. O-O d6 8. d4 exd4 9. exd4 Nf5 10. d5 Ne5 11. b3 Nh6 12. Bf4
+f6 13. Qd2 Nhf7 14. Rad1 g5 15. Bxe5 fxe5 16. Ne4 Bf5 17. N2c3 h6 18. Qe2 Qd7
+19. f4 Rae8 20. fxg5 Nxg5 21. Nxg5 hxg5 22. Ne4 (22. Be4) 22... Bf6 23. Qh5
+Bxe4 24. Bxe4 Qg7 25. Rf5 Rf7 26. Rdf1 Ref8 27. Qf3 b6 28. Kg2 a5 29. h3 Bd8
+30. Rxf7 Rxf7 31. Bf5 Kf8 32. Qe4 Rf6 1/2-1/2
+
+[Event "Coupe Loubatière"]
+[Site "?"]
+[Date "2009.11.15"]
+[Round "?"]
+[White "Landais"]
+[Black "Bruneau"]
+[Result "1-0"]
+[ECO "C89"]
+[WhiteElo "1690"]
+[BlackElo "1670"]
+[Annotator ",Seb"]
+[PlyCount "98"]
+[TimeControl "240+2"]
+
+{179MB, Shredder9.ctg, SEBPC} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O
+Be7 6. Re1 b5 7. Bb3 O-O 8. c3 d5 9. exd5 Nxd5 10. d3 Bg4 11. a4 Nf4 12. Bxf4
+exf4 13. axb5 axb5 14. Rxa8 Qxa8 15. Bd5 Bd6 16. Qb3 Qa6 17. Bxc6 Qxc6 18. Nd4
+Re8 19. Rf1 Qd7 20. Qxb5 Qe7 21. Nd2 Bd7 22. Qc4 g5 23. Qd5 Qf6 24. Ne4 Rxe4
+25. dxe4 g4 26. Re1 g3 27. fxg3 fxg3 28. Nf3 gxh2+ 29. Kh1 Be6 30. Qg5+ Qxg5
+31. Nxg5 Bf4 32. Nxe6 fxe6 33. e5 (33. Rf1) 33... Kg7 34. Re4 Bc1 35. b3 Bd2
+36. c4 c5 37. Kxh2 Kg6 38. g4 Kg5 39. Kg2 (39. Kg3 Bf4+ 40. Kf3) 39... Bf4 40.
+Kf3 Bd2 41. Re2 Bc3 42. Rh2 h6 43. Rh5+ Kg6 44. Ke4 Bb4 45. Kd3 Ba3 46. Kc2 Bb4
+47. Kb2 Bd2 48. Rh2 Be3 49. Ka3 Kg5 1-0
+
