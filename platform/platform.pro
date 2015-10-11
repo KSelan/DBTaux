@@ -15,11 +15,15 @@ TEMPLATE = app
 SOURCES += main.cpp\
         mainwindow.cpp \
     flux.cpp \
-    emprunt.cpp
+    emprunt.cpp \
+    fusionneur.cpp \
+    fusionneurbuilder.cpp
 
 HEADERS  += mainwindow.h \
     graph.h \
     flux.h \
-    emprunt.h
+    emprunt.h \
+    fusionneur.h \
+    fusionneurbuilder.h
 
 FORMS    += mainwindow.ui

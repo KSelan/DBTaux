@@ -6,6 +6,8 @@
 #include "emprunt.h"
 #include "flux.h"
 
+#include "fusionneurbuilder.h"
+
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::MainWindow)
@@ -45,10 +47,26 @@ MainWindow::MainWindow(QWidget *parent) :
     QString out = QString(stream.str().c_str());
     ui->textBrowser->append(out);
 
+    FusionneurBuilder builder;
+    Fusionneur f=builder.getFusionneur();
+    std::vector<std::string> sources=f.getSources();
+    //std::string destination=f.getDestination();
+
+    QString inputs;
+    for(std::vector<std::string>::iterator it=sources.begin();it!=sources.end();it++)
+    {
+        inputs.append("a");
+    }
+    ui->textEdit->append(inputs);
 
 }
 
 MainWindow::~MainWindow()
 {
     delete ui;
+}
+
+void MainWindow::on_pushButton_2_clicked()
+{
+    //appel au fusionnage de bases
 }

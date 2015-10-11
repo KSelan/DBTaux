@@ -9,7 +9,7 @@
 class Emprunt
 {
 public:
-    Emprunt(){}
+    Emprunt();
 
     int mois;
     double montant;
