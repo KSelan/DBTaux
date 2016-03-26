@@ -17,13 +17,25 @@ SOURCES += main.cpp\
     flux.cpp \
     emprunt.cpp \
     fusionneur.cpp \
-    fusionneurbuilder.cpp
+    fusionneurbuilder.cpp \
+    test.cpp \
+    unittest.cpp \
+    hanoi.cpp \
+    point.cpp
 
 HEADERS  += mainwindow.h \
     graph.h \
     flux.h \
     emprunt.h \
     fusionneur.h \
-    fusionneurbuilder.h
+    fusionneurbuilder.h \
+    graph_test.h \
+    test.h \
+    unittest.h \
+    arbre.h \
+    hanoi.h \
+    utils.h \
+    tuple.h \
+    point.h
 
 FORMS    += mainwindow.ui
